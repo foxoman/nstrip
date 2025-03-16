@@ -17,7 +17,7 @@ nstrip is a powerful utility written in Nim that reduces the size of ELF executa
 Install nstrip easily using Nimble, Nim's package manager:
 
 ```
-nimble install nstrip
+nimble install https://github.com/foxoman/nstrip
 ```
 
 This will download, compile, and install the latest version of nstrip to your system.
@@ -103,4 +103,5 @@ nstrip is implemented in Nim and uses:
 
 Based on the original sstrip concept by Brian Raiter.
  - https://github.com/BR903/ELFkickers/blob/master/sstrip/sstrip.c
+   
 Created by Sultan Al-Isaiee (foxoman).
