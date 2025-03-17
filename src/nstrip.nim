@@ -1,7 +1,8 @@
 # nstrip.nim
 # A Nim utility to strip nonessential bytes from ELF binary files
 # Based on sstrip by Brian Raiter <breadbox@muppetlabs.com>
-# Created by Sultan Al-Isaiee aka foxoman
+# - https://github.com/BR903/ELFkickers/blob/master/sstrip/sstrip.c
+# Created in Nim by Sultan Al-Isaiee aka foxoman
 # Copyright (C) 2025
 #
 # License: GPLv2+: GNU GPL version 2 or later.
